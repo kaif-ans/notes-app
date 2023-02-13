@@ -28,4 +28,3 @@ export default function Editor({ currentNote, updateNote }) {
     </section>
   );
 }
-
